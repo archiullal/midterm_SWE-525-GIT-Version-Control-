@@ -1,0 +1,1062 @@
+X-Account-Key: account1
+X-Mozilla-Keys:                                                                                 
+Delivered-To: alok@canvasinfotech.com
+Received: by 10.112.167.3 with SMTP id zk3csp308617lbb;
+        Wed, 22 Jan 2014 16:30:20 -0800 (PST)
+X-Received: by 10.220.92.135 with SMTP id r7mr2879665vcm.11.1390437017697;
+        Wed, 22 Jan 2014 16:30:17 -0800 (PST)
+Return-Path: <rao@canvasinfotech.com>
+Received: from mail-ve0-f174.google.com (mail-ve0-f174.google.com [209.85.128.174])
+        by mx.google.com with ESMTPS id qw5si5587131vcb.48.2014.01.22.16.30.17
+        for <alok@canvasinfotech.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Wed, 22 Jan 2014 16:30:17 -0800 (PST)
+Received-SPF: pass (google.com: domain of rao@canvasinfotech.com designates 209.85.128.174 as permitted sender) client-ip=209.85.128.174;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of rao@canvasinfotech.com designates 209.85.128.174 as permitted sender) smtp.mail=rao@canvasinfotech.com
+Received: by mail-ve0-f174.google.com with SMTP id pa12so696923veb.19
+        for <alok@canvasinfotech.com>; Wed, 22 Jan 2014 16:30:17 -0800 (PST)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:from:to
+         :content-type;
+        bh=sOFkSIzkBftIOS3rC2/RlM5mov36UzIBh9aXJ62N+oI=;
+        b=GEDUpaBdnaG467Xzr6PPSLA8u/3nFyI2GNFlTmR2P/vFGkE0zJdaHVAq+1OPqY7kAY
+         xV/PxHsmsPNn3qY5R+8Zz48CEpTYPbnRUKQuDxsUMsAroF05WA6Xl487FGffdkXZr0Yr
+         HvqzAqKs99mvmJYdXZx4MdbxY+69E+duMKYRTT0PRP4oSPmiMpUTsA4eyPaeNq/V1ZMX
+         aGRJ9nGTIToE7EvIFtzeyixGRPTpzloa/PHOnny2JmJDxz2AJnoyyYWA0dH830GhOPGM
+         jyHCWLPi9SWywrEjYwtZn7piXw13WClmgEIxe3W8T2fx3Tj5bavITxvy7VwUfB+ZUg5o
+         dL/g==
+X-Gm-Message-State: ALoCoQla83cjH0WGJE9DiIdRUXEO+tgssUD4yJnjMStHZmQOYQr+Xl4dvtAbNb6majzROhYCOnYc
+MIME-Version: 1.0
+X-Received: by 10.220.99.7 with SMTP id s7mr2852440vcn.19.1390437016616; Wed,
+ 22 Jan 2014 16:30:16 -0800 (PST)
+Received: by 10.220.151.6 with HTTP; Wed, 22 Jan 2014 16:30:16 -0800 (PST)
+Date: Wed, 22 Jan 2014 16:30:16 -0800
+Message-ID: <CAHQQe8E2Wd6UNxqEDf7Bg22VFE1-Z5zxRWf8X9EzFOs=c2jsaQ@mail.gmail.com>
+Subject: =?windows-1252?Q?James_Schafer_=96_Bank_of_the_West_=96_Mayak_Jha=96_?=
+	=?windows-1252?Q?Rao_=96_BSA_Enterprise_Data_Warehouse_data_profiling_=96_cus?=
+	=?windows-1252?Q?tomer_data_=96_01222014?=
+From: Purnayya Rao <rao@canvasinfotech.com>
+To: Rohit Gulati <rohitg@canvasinfotech.com>, Alok Bhatia <alok@canvasinfotech.com>, 
+	iaoc <iaoc@canvasinfotech.com>
+Content-Type: multipart/related; boundary=001a11c1def27a7e5f04f09858dd
+
+--001a11c1def27a7e5f04f09858dd
+Content-Type: multipart/alternative; boundary=001a11c1def27a7e5c04f09858dc
+
+--001a11c1def27a7e5c04f09858dc
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+
+James Schafer =96 Bank of the West =96 Mayak Jha=96 Rao =96 BSA Enterprise =
+Data
+Warehouse data profiling =96 customer data =96 01222014
+
+
+
+*MM in Canvas who got this position*
+
+*Rohit*
+
+*Name (s) of interviewer*
+
+*James Schafer*
+
+*Mid client screening or end client interview?*
+
+*End client*
+
+*Phone or Skype interview*
+
+
+
+*Phone/ WebEx*
+
+*Time of the interview*
+
+*3:00 PM *
+
+*Duration of the interview (how many minutes)*
+
+*56 minutes*
+
+*Overall rating of interview (A, B, C, D, F)*
+
+*A*
+
+*Regardless of the overall rating of the interview above, did the
+interviewer have the temperament of wanting to hire or not hire (that is,
+if you were the best candidate he could get, did he want to hire or not?) =
+=96
+Overall temperament of the interviewer!*
+
+*Wanting to hire*
+
+*What was the tone/personality of the interviewer?  Kind? Gentle?
+Impatient? Friendly?  Terse?  Loquacious?  No nonsense? No friendly =93Hi=
+=94?
+No laughter?  Straight to the point?*
+
+*Friendly, tough, incisive questions*
+
+*Did you feel interviewer was trusting or suspicious of the candidate from
+the get go?*
+
+*Trusting*
+
+*Probability of next round (0 -100%)*
+
+*90%*
+
+*Why are you giving this probability?*
+
+*He liked me;*
+
+*Does it feel like this lead (interview) is a low hanging fruit or a tough
+position to crack?*
+
+*Very Tough*
+
+*Probability of this lead eventually becoming a job offer?*
+
+*50%*
+
+*Why are you giving this probability?*
+
+*Next round One phone round followed by F2F. *
+
+*Connection with interviewer (A, B, C, D, F)*
+
+*A*
+
+*What did they say about next steps?*
+
+*Will tell vendor about next steps*
+
+*What was good?*
+
+*Everything*
+
+*What went bad?*
+
+
+
+*What was average?*
+
+
+
+*What was strange about the interview?*
+
+
+
+*Anything special to report?*
+
+Intially asked to rate SQL; said 8.5 out of 10. At the end of the interview
+said that =93Yes, you deserve that 8.5 and can keep it :-)=94
+
+*Feedback for interview taker*
+
+*Study every single day about EDW*
+
+*Feedback for resume maker*
+
+
+
+*Feedback for marketing manager*
+
+
+
+*Feedback for candidate; Do you think she did a good job on this interview
+prep; Do you think she will survive the job?*
+
+*No. Did not get earphone, had to hand-hold the phone, since interviewer
+called on cell phone.*
+
+*Tough tough position. Will have to work exteremly hard for the F2F*
+
+
+
+1.     How would you define the job of a BA
+
+2.     Requirements gathering.
+
+3.     Difference between Where clause and Having
+
+4.     What is mandatory for a Having clause
+
+5.     Slowing changing dimension tables
+
+6.     How would you get a response for unique values, assuming that the
+dimension table is a type 2
+
+7.     If you take out the qualifier filed from the table, then how would
+you find unique values
+
+8.     Star and Snow flake schema
+
+9.     From the list of the given tables which is a good candidate for a
+fact table and which is a good one for dimension tables.
+
+10.  Are you hands on with QC.
+
+Since you are remote, you would have another phone round and then F2F. Will
+not hire without a F2F.
+
+
+
+
+
+Kind regards,
+
+
+*Rao.*
+
+*Director - Training  *
+
+*Canvas Infotech Inc.*
+
+39465 Paseo Padre Parkway, Suite 2800,
+
+Fremont, CA - 94538
+
+Office: 510-342-5663
+
+Cell: 510-938-3150
+
+Fax: 866-470-5716
+
+Email: Rao@CanvasInfotech.com
+
+Web: www.CanvasInfotech.com  <http://www.CanvasInfotech.com>
+
+* <http://goo.gl/Sv0S0h> **[image: Inline image 1]
+<http://goo.gl/mNGjCk> **[image:
+Inline image 2] <http://goo.gl/RpFWre> * <http://goo.gl/UHFIsf>
+
+
+
+*An E-Verify EmployerIIBA Certified Endorsed Education ProvidersBetter
+Business Bureau Accredited "A+" Category Business*
+
+*We don=92t 'just' teach, we train you for a successful career.*
+
+--001a11c1def27a7e5c04f09858dc
+Content-Type: text/html; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><p class=3D"MsoNormal" align=3D"center" style=3D"margin-bo=
+ttom:0.0001pt;text-align:center"><span style=3D"font-size:18pt;font-family:=
+Arial,sans-serif;background-color:lime">=A0</span></p>
+
+<p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;tex=
+t-align:center"><span style=3D"font-size:18pt;font-family:Arial,sans-serif;=
+background-color:lime">James Schafer =96 Bank of the West =96 Mayak Jha=96 =
+Rao
+=96 BSA Enterprise Data Warehouse data profiling =96 customer data =96 0122=
+2014</span><span style=3D"font-size:10pt;font-family:Arial,sans-serif"></sp=
+an></p>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt"><span style=3D"font=
+-size:10pt;font-family:Arial,sans-serif">=A0</span></p>
+
+<table class=3D"" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D=
+"border-collapse:collapse">
+ <tbody><tr>
+  <td width=3D"299" valign=3D"top" style=3D"width:224.45pt;border:1pt solid=
+ windowtext;padding:0in 5.4pt">
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">MM in Canvas who got this position</span></b><span sty=
+le=3D"font-size:12pt;font-family:&#39;Times New Roman&#39;,serif"></span></=
+p>
+
+  </td>
+  <td width=3D"291" valign=3D"top" style=3D"width:218.35pt;border-style:sol=
+id solid solid none;border-top-color:windowtext;border-right-color:windowte=
+xt;border-bottom-color:windowtext;border-top-width:1pt;border-right-width:1=
+pt;border-bottom-width:1pt;padding:0in 5.4pt">
+
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">Rohit</span></b><span style=3D"font-size:12pt;font-fam=
+ily:&#39;Times New Roman&#39;,serif"></span></p>
+
+  </td>
+ </tr>
+ <tr>
+  <td width=3D"299" valign=3D"top" style=3D"width:224.45pt;border-style:non=
+e solid solid;border-right-color:windowtext;border-bottom-color:windowtext;=
+border-left-color:windowtext;border-right-width:1pt;border-bottom-width:1pt=
+;border-left-width:1pt;padding:0in 5.4pt">
+
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">Name (s) of interviewer</span></b><span style=3D"font-=
+size:12pt;font-family:&#39;Times New Roman&#39;,serif"></span></p>
+
+  </td>
+  <td width=3D"291" valign=3D"top" style=3D"width:218.35pt;border-style:non=
+e solid solid none;border-bottom-color:windowtext;border-bottom-width:1pt;b=
+order-right-color:windowtext;border-right-width:1pt;padding:0in 5.4pt">
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">James Schafer</span></b><span style=3D"font-size:12pt;=
+font-family:&#39;Times New Roman&#39;,serif"></span></p>
+
+  </td>
+ </tr>
+ <tr>
+  <td width=3D"299" valign=3D"top" style=3D"width:224.45pt;border-style:non=
+e solid solid;border-right-color:windowtext;border-bottom-color:windowtext;=
+border-left-color:windowtext;border-right-width:1pt;border-bottom-width:1pt=
+;border-left-width:1pt;padding:0in 5.4pt">
+
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">Mid client screening or end client interview?</span></=
+b><span style=3D"font-size:12pt;font-family:&#39;Times New Roman&#39;,serif=
+"></span></p>
+
+  </td>
+  <td width=3D"291" valign=3D"top" style=3D"width:218.35pt;border-style:non=
+e solid solid none;border-bottom-color:windowtext;border-bottom-width:1pt;b=
+order-right-color:windowtext;border-right-width:1pt;padding:0in 5.4pt">
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">End client</span></b><span style=3D"font-size:12pt;fon=
+t-family:&#39;Times New Roman&#39;,serif"></span></p>
+
+  </td>
+ </tr>
+ <tr>
+  <td width=3D"299" valign=3D"top" style=3D"width:224.45pt;border-style:non=
+e solid solid;border-right-color:windowtext;border-bottom-color:windowtext;=
+border-left-color:windowtext;border-right-width:1pt;border-bottom-width:1pt=
+;border-left-width:1pt;padding:0in 5.4pt">
+
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">Phone or Skype interview</span></b><span style=3D"font=
+-size:12pt;font-family:&#39;Times New Roman&#39;,serif"></span></p>
+
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">=A0</span></b><span style=3D"font-size:12pt;font-famil=
+y:&#39;Times New Roman&#39;,serif"></span></p>
+
+  </td>
+  <td width=3D"291" valign=3D"top" style=3D"width:218.35pt;border-style:non=
+e solid solid none;border-bottom-color:windowtext;border-bottom-width:1pt;b=
+order-right-color:windowtext;border-right-width:1pt;padding:0in 5.4pt">
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">Phone/ WebEx</span></b><span style=3D"font-size:12pt;f=
+ont-family:&#39;Times New Roman&#39;,serif"></span></p>
+
+  </td>
+ </tr>
+ <tr>
+  <td width=3D"299" valign=3D"top" style=3D"width:224.45pt;border-style:non=
+e solid solid;border-right-color:windowtext;border-bottom-color:windowtext;=
+border-left-color:windowtext;border-right-width:1pt;border-bottom-width:1pt=
+;border-left-width:1pt;padding:0in 5.4pt">
+
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">Time of the interview</span></b><span style=3D"font-si=
+ze:12pt;font-family:&#39;Times New Roman&#39;,serif"></span></p>
+
+  </td>
+  <td width=3D"291" valign=3D"top" style=3D"width:218.35pt;border-style:non=
+e solid solid none;border-bottom-color:windowtext;border-bottom-width:1pt;b=
+order-right-color:windowtext;border-right-width:1pt;padding:0in 5.4pt">
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">3:00 PM </span></b><span style=3D"font-size:12pt;font-=
+family:&#39;Times New Roman&#39;,serif"></span></p>
+
+  </td>
+ </tr>
+ <tr>
+  <td width=3D"299" valign=3D"top" style=3D"width:224.45pt;border-style:non=
+e solid solid;border-right-color:windowtext;border-bottom-color:windowtext;=
+border-left-color:windowtext;border-right-width:1pt;border-bottom-width:1pt=
+;border-left-width:1pt;padding:0in 5.4pt">
+
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">Duration of the interview (how many minutes)</span></b=
+><span style=3D"font-size:12pt;font-family:&#39;Times New Roman&#39;,serif"=
+></span></p>
+
+  </td>
+  <td width=3D"291" valign=3D"top" style=3D"width:218.35pt;border-style:non=
+e solid solid none;border-bottom-color:windowtext;border-bottom-width:1pt;b=
+order-right-color:windowtext;border-right-width:1pt;padding:0in 5.4pt">
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">56 minutes</span></b><span style=3D"font-size:12pt;fon=
+t-family:&#39;Times New Roman&#39;,serif"></span></p>
+
+  </td>
+ </tr>
+ <tr>
+  <td width=3D"299" valign=3D"top" style=3D"width:224.45pt;border-style:non=
+e solid solid;border-right-color:windowtext;border-bottom-color:windowtext;=
+border-left-color:windowtext;border-right-width:1pt;border-bottom-width:1pt=
+;border-left-width:1pt;padding:0in 5.4pt">
+
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">Overall rating of interview (A, B, C, D, F)</span></b>=
+<span style=3D"font-size:12pt;font-family:&#39;Times New Roman&#39;,serif">=
+</span></p>
+
+  </td>
+  <td width=3D"291" valign=3D"top" style=3D"width:218.35pt;border-style:non=
+e solid solid none;border-bottom-color:windowtext;border-bottom-width:1pt;b=
+order-right-color:windowtext;border-right-width:1pt;padding:0in 5.4pt">
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">A</span></b><span style=3D"font-size:12pt;font-family:=
+&#39;Times New Roman&#39;,serif"></span></p>
+
+  </td>
+ </tr>
+ <tr>
+  <td width=3D"299" valign=3D"top" style=3D"width:224.45pt;border-style:non=
+e solid solid;border-right-color:windowtext;border-bottom-color:windowtext;=
+border-left-color:windowtext;border-right-width:1pt;border-bottom-width:1pt=
+;border-left-width:1pt;padding:0in 5.4pt">
+
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">Regardless of the overall rating of the interview abov=
+e, did
+  the interviewer have the temperament of wanting to hire or not hire (that=
+ is,
+  if you were the best candidate he could get, did he want to hire or not?)=
+ =96
+  Overall temperament of the interviewer!</span></b><span style=3D"font-siz=
+e:12pt;font-family:&#39;Times New Roman&#39;,serif"></span></p>
+  </td>
+  <td width=3D"291" valign=3D"top" style=3D"width:218.35pt;border-style:non=
+e solid solid none;border-bottom-color:windowtext;border-bottom-width:1pt;b=
+order-right-color:windowtext;border-right-width:1pt;padding:0in 5.4pt">
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">Wanting to hire</span></b><span style=3D"font-size:12p=
+t;font-family:&#39;Times New Roman&#39;,serif"></span></p>
+
+  </td>
+ </tr>
+ <tr>
+  <td width=3D"299" valign=3D"top" style=3D"width:224.45pt;border-style:non=
+e solid solid;border-right-color:windowtext;border-bottom-color:windowtext;=
+border-left-color:windowtext;border-right-width:1pt;border-bottom-width:1pt=
+;border-left-width:1pt;padding:0in 5.4pt">
+
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">What was the tone/personality of the interviewer?=A0=
+=A0Kind?
+  Gentle? Impatient? Friendly?=A0=A0Terse?=A0=A0Loquacious?=A0=A0No
+  nonsense? No friendly =93Hi=94? No laughter?=A0=A0Straight to the point?<=
+/span></b><span style=3D"font-size:12pt;font-family:&#39;Times New Roman&#3=
+9;,serif"></span></p>
+  </td>
+  <td width=3D"291" valign=3D"top" style=3D"width:218.35pt;border-style:non=
+e solid solid none;border-bottom-color:windowtext;border-bottom-width:1pt;b=
+order-right-color:windowtext;border-right-width:1pt;padding:0in 5.4pt">
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">Friendly, tough, incisive questions</span></b><span st=
+yle=3D"font-size:12pt;font-family:&#39;Times New Roman&#39;,serif"></span><=
+/p>
+
+  </td>
+ </tr>
+ <tr>
+  <td width=3D"299" valign=3D"top" style=3D"width:224.45pt;border-style:non=
+e solid solid;border-right-color:windowtext;border-bottom-color:windowtext;=
+border-left-color:windowtext;border-right-width:1pt;border-bottom-width:1pt=
+;border-left-width:1pt;padding:0in 5.4pt">
+
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">Did you feel interviewer was trusting or suspicious of=
+ the
+  candidate from the get go?</span></b><span style=3D"font-size:12pt;font-f=
+amily:&#39;Times New Roman&#39;,serif"></span></p>
+  </td>
+  <td width=3D"291" valign=3D"top" style=3D"width:218.35pt;border-style:non=
+e solid solid none;border-bottom-color:windowtext;border-bottom-width:1pt;b=
+order-right-color:windowtext;border-right-width:1pt;padding:0in 5.4pt">
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">Trusting</span></b><span style=3D"font-size:12pt;font-=
+family:&#39;Times New Roman&#39;,serif"></span></p>
+
+  </td>
+ </tr>
+ <tr>
+  <td width=3D"299" valign=3D"top" style=3D"width:224.45pt;border-style:non=
+e solid solid;border-right-color:windowtext;border-bottom-color:windowtext;=
+border-left-color:windowtext;border-right-width:1pt;border-bottom-width:1pt=
+;border-left-width:1pt;padding:0in 5.4pt">
+
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">Probability of next round (0 -100%)</span></b><span st=
+yle=3D"font-size:12pt;font-family:&#39;Times New Roman&#39;,serif"></span><=
+/p>
+
+  </td>
+  <td width=3D"291" valign=3D"top" style=3D"width:218.35pt;border-style:non=
+e solid solid none;border-bottom-color:windowtext;border-bottom-width:1pt;b=
+order-right-color:windowtext;border-right-width:1pt;padding:0in 5.4pt">
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">90%</span></b><span style=3D"font-size:12pt;font-famil=
+y:&#39;Times New Roman&#39;,serif"></span></p>
+
+  </td>
+ </tr>
+ <tr>
+  <td width=3D"299" valign=3D"top" style=3D"width:224.45pt;border-style:non=
+e solid solid;border-right-color:windowtext;border-bottom-color:windowtext;=
+border-left-color:windowtext;border-right-width:1pt;border-bottom-width:1pt=
+;border-left-width:1pt;padding:0in 5.4pt">
+
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">Why are you giving this probability?</span></b><span s=
+tyle=3D"font-size:12pt;font-family:&#39;Times New Roman&#39;,serif"></span>=
+</p>
+
+  </td>
+  <td width=3D"291" valign=3D"top" style=3D"width:218.35pt;border-style:non=
+e solid solid none;border-bottom-color:windowtext;border-bottom-width:1pt;b=
+order-right-color:windowtext;border-right-width:1pt;padding:0in 5.4pt">
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">He liked me;</span></b><span style=3D"font-size:12pt;f=
+ont-family:&#39;Times New Roman&#39;,serif"></span></p>
+
+  </td>
+ </tr>
+ <tr>
+  <td width=3D"299" valign=3D"top" style=3D"width:224.45pt;border-style:non=
+e solid solid;border-right-color:windowtext;border-bottom-color:windowtext;=
+border-left-color:windowtext;border-right-width:1pt;border-bottom-width:1pt=
+;border-left-width:1pt;padding:0in 5.4pt">
+
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">Does it feel like this lead (interview) is a low hangi=
+ng fruit
+  or a tough position to crack?</span></b><span style=3D"font-size:12pt;fon=
+t-family:&#39;Times New Roman&#39;,serif"></span></p>
+  </td>
+  <td width=3D"291" valign=3D"top" style=3D"width:218.35pt;border-style:non=
+e solid solid none;border-bottom-color:windowtext;border-bottom-width:1pt;b=
+order-right-color:windowtext;border-right-width:1pt;padding:0in 5.4pt">
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">Very Tough</span></b><span style=3D"font-size:12pt;fon=
+t-family:&#39;Times New Roman&#39;,serif"></span></p>
+
+  </td>
+ </tr>
+ <tr>
+  <td width=3D"299" valign=3D"top" style=3D"width:224.45pt;border-style:non=
+e solid solid;border-right-color:windowtext;border-bottom-color:windowtext;=
+border-left-color:windowtext;border-right-width:1pt;border-bottom-width:1pt=
+;border-left-width:1pt;padding:0in 5.4pt">
+
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">Probability of this lead eventually becoming a job off=
+er?</span></b><span style=3D"font-size:12pt;font-family:&#39;Times New Roma=
+n&#39;,serif"></span></p>
+
+  </td>
+  <td width=3D"291" valign=3D"top" style=3D"width:218.35pt;border-style:non=
+e solid solid none;border-bottom-color:windowtext;border-bottom-width:1pt;b=
+order-right-color:windowtext;border-right-width:1pt;padding:0in 5.4pt">
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">50%</span></b><span style=3D"font-size:12pt;font-famil=
+y:&#39;Times New Roman&#39;,serif"></span></p>
+
+  </td>
+ </tr>
+ <tr>
+  <td width=3D"299" valign=3D"top" style=3D"width:224.45pt;border-style:non=
+e solid solid;border-right-color:windowtext;border-bottom-color:windowtext;=
+border-left-color:windowtext;border-right-width:1pt;border-bottom-width:1pt=
+;border-left-width:1pt;padding:0in 5.4pt">
+
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">Why are you giving this probability?</span></b><span s=
+tyle=3D"font-size:12pt;font-family:&#39;Times New Roman&#39;,serif"></span>=
+</p>
+
+  </td>
+  <td width=3D"291" valign=3D"top" style=3D"width:218.35pt;border-style:non=
+e solid solid none;border-bottom-color:windowtext;border-bottom-width:1pt;b=
+order-right-color:windowtext;border-right-width:1pt;padding:0in 5.4pt">
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">Next round One phone round followed by F2F. </span></b=
+><span style=3D"font-size:12pt;font-family:&#39;Times New Roman&#39;,serif"=
+></span></p>
+
+  </td>
+ </tr>
+ <tr>
+  <td width=3D"299" valign=3D"top" style=3D"width:224.45pt;border-style:non=
+e solid solid;border-right-color:windowtext;border-bottom-color:windowtext;=
+border-left-color:windowtext;border-right-width:1pt;border-bottom-width:1pt=
+;border-left-width:1pt;padding:0in 5.4pt">
+
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">Connection with interviewer (A, B, C, D, F)</span></b>=
+<span style=3D"font-size:12pt;font-family:&#39;Times New Roman&#39;,serif">=
+</span></p>
+
+  </td>
+  <td width=3D"291" valign=3D"top" style=3D"width:218.35pt;border-style:non=
+e solid solid none;border-bottom-color:windowtext;border-bottom-width:1pt;b=
+order-right-color:windowtext;border-right-width:1pt;padding:0in 5.4pt">
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">A</span></b><span style=3D"font-size:12pt;font-family:=
+&#39;Times New Roman&#39;,serif"></span></p>
+
+  </td>
+ </tr>
+ <tr>
+  <td width=3D"299" valign=3D"top" style=3D"width:224.45pt;border-style:non=
+e solid solid;border-right-color:windowtext;border-bottom-color:windowtext;=
+border-left-color:windowtext;border-right-width:1pt;border-bottom-width:1pt=
+;border-left-width:1pt;padding:0in 5.4pt">
+
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">What did they say about next steps?</span></b><span st=
+yle=3D"font-size:12pt;font-family:&#39;Times New Roman&#39;,serif"></span><=
+/p>
+
+  </td>
+  <td width=3D"291" valign=3D"top" style=3D"width:218.35pt;border-style:non=
+e solid solid none;border-bottom-color:windowtext;border-bottom-width:1pt;b=
+order-right-color:windowtext;border-right-width:1pt;padding:0in 5.4pt">
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">Will tell vendor about next steps</span></b><span styl=
+e=3D"font-size:12pt;font-family:&#39;Times New Roman&#39;,serif"></span></p=
+>
+
+  </td>
+ </tr>
+ <tr>
+  <td width=3D"299" valign=3D"top" style=3D"width:224.45pt;border-style:non=
+e solid solid;border-right-color:windowtext;border-bottom-color:windowtext;=
+border-left-color:windowtext;border-right-width:1pt;border-bottom-width:1pt=
+;border-left-width:1pt;padding:0in 5.4pt">
+
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">What was good?</span></b><span style=3D"font-size:12pt=
+;font-family:&#39;Times New Roman&#39;,serif"></span></p>
+
+  </td>
+  <td width=3D"291" valign=3D"top" style=3D"width:218.35pt;border-style:non=
+e solid solid none;border-bottom-color:windowtext;border-bottom-width:1pt;b=
+order-right-color:windowtext;border-right-width:1pt;padding:0in 5.4pt">
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">Everything</span></b><span style=3D"font-size:12pt;fon=
+t-family:&#39;Times New Roman&#39;,serif"></span></p>
+
+  </td>
+ </tr>
+ <tr>
+  <td width=3D"299" valign=3D"top" style=3D"width:224.45pt;border-style:non=
+e solid solid;border-right-color:windowtext;border-bottom-color:windowtext;=
+border-left-color:windowtext;border-right-width:1pt;border-bottom-width:1pt=
+;border-left-width:1pt;padding:0in 5.4pt">
+
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">What went bad?</span></b><span style=3D"font-size:12pt=
+;font-family:&#39;Times New Roman&#39;,serif"></span></p>
+
+  </td>
+  <td width=3D"291" valign=3D"top" style=3D"width:218.35pt;border-style:non=
+e solid solid none;border-bottom-color:windowtext;border-bottom-width:1pt;b=
+order-right-color:windowtext;border-right-width:1pt;padding:0in 5.4pt">
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">=A0</span></b><span style=3D"font-size:12pt;font-famil=
+y:&#39;Times New Roman&#39;,serif"></span></p>
+
+  </td>
+ </tr>
+ <tr style=3D"height:14.8pt">
+  <td width=3D"299" valign=3D"top" style=3D"width:224.45pt;border-style:non=
+e solid solid;border-right-color:windowtext;border-bottom-color:windowtext;=
+border-left-color:windowtext;border-right-width:1pt;border-bottom-width:1pt=
+;border-left-width:1pt;padding:0in 5.4pt;height:14.8pt">
+
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">What was average?</span></b><span style=3D"font-size:1=
+2pt;font-family:&#39;Times New Roman&#39;,serif"></span></p>
+
+  </td>
+  <td width=3D"291" valign=3D"top" style=3D"width:218.35pt;border-style:non=
+e solid solid none;border-bottom-color:windowtext;border-bottom-width:1pt;b=
+order-right-color:windowtext;border-right-width:1pt;padding:0in 5.4pt;heigh=
+t:14.8pt">
+
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">=A0</span></b><span style=3D"font-size:12pt;font-famil=
+y:&#39;Times New Roman&#39;,serif"></span></p>
+
+  </td>
+ </tr>
+ <tr style=3D"height:14.8pt">
+  <td width=3D"299" valign=3D"top" style=3D"width:224.45pt;border-style:non=
+e solid solid;border-right-color:windowtext;border-bottom-color:windowtext;=
+border-left-color:windowtext;border-right-width:1pt;border-bottom-width:1pt=
+;border-left-width:1pt;padding:0in 5.4pt;height:14.8pt">
+
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">What was strange about the interview?</span></b><span =
+style=3D"font-size:12pt;font-family:&#39;Times New Roman&#39;,serif"></span=
+></p>
+
+  </td>
+  <td width=3D"291" valign=3D"top" style=3D"width:218.35pt;border-style:non=
+e solid solid none;border-bottom-color:windowtext;border-bottom-width:1pt;b=
+order-right-color:windowtext;border-right-width:1pt;padding:0in 5.4pt;heigh=
+t:14.8pt">
+
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">=A0</span></b><span style=3D"font-size:12pt;font-famil=
+y:&#39;Times New Roman&#39;,serif"></span></p>
+
+  </td>
+ </tr>
+ <tr style=3D"height:14.8pt">
+  <td width=3D"299" valign=3D"top" style=3D"width:224.45pt;border-style:non=
+e solid solid;border-right-color:windowtext;border-bottom-color:windowtext;=
+border-left-color:windowtext;border-right-width:1pt;border-bottom-width:1pt=
+;border-left-width:1pt;padding:0in 5.4pt;height:14.8pt">
+
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">Anything special to report?</span></b><span style=3D"f=
+ont-size:12pt;font-family:&#39;Times New Roman&#39;,serif"></span></p>
+
+  </td>
+  <td width=3D"291" valign=3D"top" style=3D"width:218.35pt;border-style:non=
+e solid solid none;border-bottom-color:windowtext;border-bottom-width:1pt;b=
+order-right-color:windowtext;border-right-width:1pt;padding:0in 5.4pt;heigh=
+t:14.8pt">
+
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><span style=3D"font-size:12pt;font-family:&#39;Times New =
+Roman&#39;,serif">Intially asked to rate SQL; said 8.5 out of 10. At the en=
+d of
+  the interview said that =93Yes, you deserve that 8.5 and can keep it :-)=
+=94</span></p>
+  </td>
+ </tr>
+ <tr style=3D"height:14.8pt">
+  <td width=3D"299" valign=3D"top" style=3D"width:224.45pt;border-style:non=
+e solid solid;border-right-color:windowtext;border-bottom-color:windowtext;=
+border-left-color:windowtext;border-right-width:1pt;border-bottom-width:1pt=
+;border-left-width:1pt;padding:0in 5.4pt;height:14.8pt">
+
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">Feedback for interview taker</span></b><span style=3D"=
+font-size:12pt;font-family:&#39;Times New Roman&#39;,serif"></span></p>
+
+  </td>
+  <td width=3D"291" valign=3D"top" style=3D"width:218.35pt;border-style:non=
+e solid solid none;border-bottom-color:windowtext;border-bottom-width:1pt;b=
+order-right-color:windowtext;border-right-width:1pt;padding:0in 5.4pt;heigh=
+t:14.8pt">
+
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">Study every single day about EDW</span></b><span style=
+=3D"font-size:12pt;font-family:&#39;Times New Roman&#39;,serif"></span></p>
+
+  </td>
+ </tr>
+ <tr style=3D"height:14.8pt">
+  <td width=3D"299" valign=3D"top" style=3D"width:224.45pt;border-style:non=
+e solid solid;border-right-color:windowtext;border-bottom-color:windowtext;=
+border-left-color:windowtext;border-right-width:1pt;border-bottom-width:1pt=
+;border-left-width:1pt;padding:0in 5.4pt;height:14.8pt">
+
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">Feedback for resume maker</span></b><span style=3D"fon=
+t-size:12pt;font-family:&#39;Times New Roman&#39;,serif"></span></p>
+
+  </td>
+  <td width=3D"291" valign=3D"top" style=3D"width:218.35pt;border-style:non=
+e solid solid none;border-bottom-color:windowtext;border-bottom-width:1pt;b=
+order-right-color:windowtext;border-right-width:1pt;padding:0in 5.4pt;heigh=
+t:14.8pt">
+
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">=A0</span></b><span style=3D"font-size:12pt;font-famil=
+y:&#39;Times New Roman&#39;,serif"></span></p>
+
+  </td>
+ </tr>
+ <tr style=3D"height:14.8pt">
+  <td width=3D"299" valign=3D"top" style=3D"width:224.45pt;border-style:non=
+e solid solid;border-right-color:windowtext;border-bottom-color:windowtext;=
+border-left-color:windowtext;border-right-width:1pt;border-bottom-width:1pt=
+;border-left-width:1pt;padding:0in 5.4pt;height:14.8pt">
+
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">Feedback for marketing manager</span></b><span style=
+=3D"font-size:12pt;font-family:&#39;Times New Roman&#39;,serif"></span></p>
+
+  </td>
+  <td width=3D"291" valign=3D"top" style=3D"width:218.35pt;border-style:non=
+e solid solid none;border-bottom-color:windowtext;border-bottom-width:1pt;b=
+order-right-color:windowtext;border-right-width:1pt;padding:0in 5.4pt;heigh=
+t:14.8pt">
+
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">=A0</span></b><span style=3D"font-size:12pt;font-famil=
+y:&#39;Times New Roman&#39;,serif"></span></p>
+
+  </td>
+ </tr>
+ <tr style=3D"height:14.8pt">
+  <td width=3D"299" valign=3D"top" style=3D"width:224.45pt;border-style:non=
+e solid solid;border-right-color:windowtext;border-bottom-color:windowtext;=
+border-left-color:windowtext;border-right-width:1pt;border-bottom-width:1pt=
+;border-left-width:1pt;padding:0in 5.4pt;height:14.8pt">
+
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">Feedback for candidate; Do you think she did a good jo=
+b on
+  this interview prep; Do you think she will survive the job?</span></b><sp=
+an style=3D"font-size:12pt;font-family:&#39;Times New Roman&#39;,serif"></s=
+pan></p>
+  </td>
+  <td width=3D"291" valign=3D"top" style=3D"width:218.35pt;border-style:non=
+e solid solid none;border-bottom-color:windowtext;border-bottom-width:1pt;b=
+order-right-color:windowtext;border-right-width:1pt;padding:0in 5.4pt;heigh=
+t:14.8pt">
+
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">No. Did not get earphone, had to hand-hold the phone, =
+since interviewer
+  called on cell phone.</span></b></p>
+  <p class=3D"MsoNormal" align=3D"center" style=3D"margin-bottom:0.0001pt;t=
+ext-align:center"><b><span style=3D"font-size:12pt;font-family:&#39;Times N=
+ew Roman&#39;,serif">Tough tough position. Will have to work exteremly hard=
+ for the
+  F2F</span></b><span style=3D"font-size:12pt;font-family:&#39;Times New Ro=
+man&#39;,serif"></span></p>
+  </td>
+ </tr>
+</tbody></table>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt"><span style=3D"font=
+-size:10pt;font-family:Arial,sans-serif">=A0</span></p>
+
+<p class=3D"" style><span style=3D"font-size:10pt;font-family:Arial,sans-se=
+rif">1.<span style=3D"font-size:7pt;font-family:&#39;Times New Roman&#39;">=
+=A0=A0=A0=A0
+</span></span><span style=3D"font-size:10pt;font-family:Arial,sans-serif">H=
+ow would you define
+the job of a BA</span></p>
+
+<p class=3D"" style><span style=3D"font-size:10pt;font-family:Arial,sans-se=
+rif">2.<span style=3D"font-size:7pt;font-family:&#39;Times New Roman&#39;">=
+=A0=A0=A0=A0
+</span></span><span style=3D"font-size:10pt;font-family:Arial,sans-serif">R=
+equirements
+gathering.</span></p>
+
+<p class=3D"" style><span style=3D"font-size:10pt;font-family:Arial,sans-se=
+rif">3.<span style=3D"font-size:7pt;font-family:&#39;Times New Roman&#39;">=
+=A0=A0=A0=A0
+</span></span><span style=3D"font-size:10pt;font-family:Arial,sans-serif">D=
+ifference between Where
+clause and Having</span></p>
+
+<p class=3D"" style><span style=3D"font-size:10pt;font-family:Arial,sans-se=
+rif">4.<span style=3D"font-size:7pt;font-family:&#39;Times New Roman&#39;">=
+=A0=A0=A0=A0
+</span></span><span style=3D"font-size:10pt;font-family:Arial,sans-serif">W=
+hat is mandatory for
+a Having clause</span></p>
+
+<p class=3D"" style><span style=3D"font-size:10pt;font-family:Arial,sans-se=
+rif">5.<span style=3D"font-size:7pt;font-family:&#39;Times New Roman&#39;">=
+=A0=A0=A0=A0
+</span></span><span style=3D"font-size:10pt;font-family:Arial,sans-serif">S=
+lowing changing
+dimension tables</span></p>
+
+<p class=3D"" style><span style=3D"font-size:10pt;font-family:Arial,sans-se=
+rif">6.<span style=3D"font-size:7pt;font-family:&#39;Times New Roman&#39;">=
+=A0=A0=A0=A0
+</span></span><span style=3D"font-size:10pt;font-family:Arial,sans-serif">H=
+ow would you get a response
+for unique values, assuming that the dimension table is a type 2</span></p>
+
+<p class=3D"" style><span style=3D"font-size:10pt;font-family:Arial,sans-se=
+rif">7.<span style=3D"font-size:7pt;font-family:&#39;Times New Roman&#39;">=
+=A0=A0=A0=A0
+</span></span><span style=3D"font-size:10pt;font-family:Arial,sans-serif">I=
+f you take out the
+qualifier filed from the table, then how would you find unique values</span=
+></p>
+
+<p class=3D"" style><span style=3D"font-size:10pt;font-family:Arial,sans-se=
+rif">8.<span style=3D"font-size:7pt;font-family:&#39;Times New Roman&#39;">=
+=A0=A0=A0=A0
+</span></span><span style=3D"font-size:10pt;font-family:Arial,sans-serif">S=
+tar and Snow flake
+schema</span></p>
+
+<p class=3D"" style><span style=3D"font-size:10pt;font-family:Arial,sans-se=
+rif">9.<span style=3D"font-size:7pt;font-family:&#39;Times New Roman&#39;">=
+=A0=A0=A0=A0
+</span></span><span style=3D"font-size:10pt;font-family:Arial,sans-serif">F=
+rom the list of the
+given tables which is a good candidate for a fact table and which is a good=
+ one
+for dimension tables.</span></p>
+
+<p class=3D"" style><span style=3D"font-size:10pt;font-family:Arial,sans-se=
+rif">10.<span style=3D"font-size:7pt;font-family:&#39;Times New Roman&#39;"=
+>=A0 </span></span><span style=3D"font-size:10pt;font-family:Arial,sans-ser=
+if">Are you hands on with QC.</span></p>
+
+
+<p class=3D""><span style=3D"font-size:10pt;line-height:115%;font-family:Ar=
+ial,sans-serif">Since you are remote, you would have another phone round an=
+d
+then F2F. Will not hire without a F2F.</span></p>
+
+<p class=3D"MsoNormal">=A0</p>
+
+<p class=3D"MsoNormal">=A0</p><div><div dir=3D"ltr"><p style=3D"color:rgb(0=
+,0,0);line-height:14px;word-spacing:1px"><font face=3D"arial, helvetica, sa=
+ns-serif">Kind regards,</font></p><p style=3D"color:rgb(0,0,0);line-height:=
+14px;word-spacing:1px">
+<font face=3D"arial, helvetica, sans-serif"><br></font></p><p style=3D"colo=
+r:rgb(0,0,0);line-height:14px;word-spacing:1px"><b><font face=3D"arial, hel=
+vetica, sans-serif">Rao.</font></b></p><p style=3D"color:rgb(0,0,0);line-he=
+ight:14px;word-spacing:1px">
+<b><font face=3D"arial, helvetica, sans-serif"><i>Director - Training </i>=
+=A0</font></b></p><p style=3D"color:rgb(0,0,0);line-height:14px;word-spacin=
+g:1px"><font face=3D"arial, helvetica, sans-serif"><b>Canvas Infotech Inc.<=
+/b></font></p>
+<p style=3D"color:rgb(0,0,0);line-height:14px;word-spacing:1px"><font face=
+=3D"arial, helvetica, sans-serif">39465 Paseo Padre Parkway, Suite 2800,</f=
+ont></p><p style=3D"color:rgb(0,0,0);line-height:14px;word-spacing:1px"><fo=
+nt face=3D"arial, helvetica, sans-serif">Fremont, CA - 94538</font></p>
+<p style=3D"color:rgb(0,0,0);line-height:14px;word-spacing:1px"><font face=
+=3D"arial, helvetica, sans-serif">Office: 510-342-5663</font></p><p style=
+=3D"color:rgb(0,0,0);line-height:14px;word-spacing:1px"><font face=3D"arial=
+, helvetica, sans-serif">Cell: 510-938-3150</font></p>
+<p style=3D"color:rgb(0,0,0);line-height:14px;word-spacing:1px"><font face=
+=3D"arial, helvetica, sans-serif">Fax: 866-470-5716</font></p><p style=3D"c=
+olor:rgb(0,0,0);line-height:14px;word-spacing:1px"><font face=3D"arial, hel=
+vetica, sans-serif">Email: <a href=3D"mailto:Rao@CanvasInfotech.com" target=
+=3D"_blank">Rao@CanvasInfotech.com</a><br>
+</font></p><p style=3D"color:rgb(0,0,0);line-height:14px;word-spacing:1px">=
+<font face=3D"arial, helvetica, sans-serif">Web:=A0<a href=3D"http://www.Ca=
+nvasInfotech.com" target=3D"_blank">www.CanvasInfotech.com=A0</a></font><br=
+></p><p style=3D"color:rgb(0,0,0);line-height:14px;word-spacing:1px">
+<font face=3D"georgia, serif" size=3D"1" style=3D"color:rgb(34,34,34);line-=
+height:normal;word-spacing:0px"><i><b><a href=3D"http://goo.gl/Sv0S0h" styl=
+e=3D"color:rgb(17,85,204)" target=3D"_blank"><img src=3D"https://encrypted-=
+tbn2.gstatic.com/images?q=3Dtbn:ANd9GcRxkI7keqDquW_6jE8E4zGKjtwVSjZcps3s-8M=
+nleMHGHx9sYc8"></a>=A0</b></i></font><b style=3D"color:rgb(34,34,34);line-h=
+eight:normal;word-spacing:0px;font-family:georgia,serif;font-size:x-small">=
+<i><a href=3D"http://goo.gl/mNGjCk" style=3D"color:rgb(17,85,204)" target=
+=3D"_blank"><img src=3D"cid:ii_1425d36427aee829" alt=3D"Inline image 1"></a=
+>=A0</i></b><b style=3D"color:rgb(34,34,34);line-height:normal;word-spacing=
+:0px;font-family:georgia,serif;font-size:x-small"><i><a href=3D"http://goo.=
+gl/RpFWre" style=3D"color:rgb(17,85,204)" target=3D"_blank"><img src=3D"cid=
+:ii_1425d36da65524e2" alt=3D"Inline image 2"></a>=A0</i></b><a href=3D"http=
+://goo.gl/UHFIsf" style=3D"color:rgb(17,85,204);line-height:normal;word-spa=
+cing:0px" target=3D"_blank"><img src=3D"https://encrypted-tbn0.gstatic.com/=
+images?q=3Dtbn:ANd9GcSXW3HItT1MdveDytX2oBquu6b0nH65tJMC3LXCTTSTvZrMPgb7uQ">=
+</a></p>
+<p style=3D"color:rgb(0,0,0);line-height:14px;word-spacing:1px"><b><i><span=
+ style=3D"color:rgb(34,34,34);line-height:normal;word-spacing:0px">An E-Ver=
+ify Employer</span><br style=3D"color:rgb(34,34,34);line-height:normal;word=
+-spacing:0px">
+<span style=3D"color:rgb(34,34,34);line-height:normal;word-spacing:0px">IIB=
+A Certified Endorsed Education Providers</span><br><span style=3D"color:rgb=
+(34,34,34);line-height:normal;word-spacing:0px">Better Business Bureau Accr=
+edited &quot;A+&quot; Category Business</span></i></b><font face=3D"arial, =
+helvetica, sans-serif"><br>
+</font></p><p style=3D"color:rgb(0,0,0);line-height:14px;word-spacing:1px">=
+<em style=3D"font-family:Verdana">We don=92t &#39;just&#39; teach, we train=
+ you for a successful career.</em></p></div></div>
+</div>
+
+--001a11c1def27a7e5c04f09858dc--
+--001a11c1def27a7e5f04f09858dd
+Content-Type: image/jpeg; name="image.jpeg"
+Content-Transfer-Encoding: base64
+Content-ID: <ii_1425d36da65524e2>
+X-Attachment-Id: ii_1425d36da65524e2
+
+/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwEBAQkBBwgKCgELDRYPDQwMDRsUFRAWIB0iIiAd
+Hx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3
+Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nys3NzQrNzc3Nzc3K//AABEIABAAEAMBEQACEQED
+EQH/xAAWAAADAAAAAAAAAAAAAAAAAAADBAb/xAAmEAAABQMDAwUAAAAAAAAAAAABAgMEEQUGBwAI
+IRITQTFRYZGh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgUAAQP/xAAeEQACAgICAwAAAAAAAAAAAAAB
+AgADEUEhMQQSE//aAAwDAQACEQMRAD8AoG6l95Z29tLgatFVMvOHBkgUE5eg8AIxyMzx59tNyArk
+E8ARGrM9YKjkmBqRN4O3CyCZJetBRtU5ukDSUYHxMemiQ1WHCmBZ9ql9mGIGg3BhjAWKaVjd2C5b
+waP1Fli9oeCiUwfciHGrtoZ2YrsSUeQlaordg5iStZs++NodSwGUVz5TdVLvol6BGSiIfvxoxURY
+r6AxMzcGqZNlsz//2QAA
+--001a11c1def27a7e5f04f09858dd
+Content-Type: image/jpeg; name="image.jpeg"
+Content-Transfer-Encoding: base64
+Content-ID: <ii_1425d36427aee829>
+X-Attachment-Id: ii_1425d36427aee829
+
+/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAd
+Hx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5Ojf/2wBDAQoKCg0MDRoPDxo3JR8lNzc3Nzc3
+Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzf/wAARCAAQABADASIA
+AhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAIxAAAgIBBAICAwAAAAAAAAAAAQMCBBEA
+BRMhBiIjMTJBgf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAYEQADAQEAAAAAAAAAAAAAAAABAhEA
+Qf/aAAwDAQACEQMRAD8A1iHktCwIxo89hzB8MBXZETOMj2lEAD95z9akpXDs1iwrc3XZpilRL2Ka
+yBZiXIRLBAj+PWQBo943uVVMtpwzlmuERNSByMHxkH1jk9Z760l3e3Hdkq2+qi5h7YxbJlRq4xXn
+2yZRA+sj+6dkCmcxhqLv/9kA
+--001a11c1def27a7e5f04f09858dd--
+

@@ -1,0 +1,84 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Verdana;}
+{\colortbl;\red255\green255\blue255;\red67\green67\blue67;}
+\margl1440\margr1440\vieww25400\viewh13620\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\fs24 \cf0 dept id            emp id          salary\
+101		1001		10k\
+101		1002		15k\
+103		1003		20k\
+102		1004		10k\
+103		1005		5k\
+102		1006		10k\
+101		1007		30k\
+\
+\
+first name last name\
+\
+archana bhat\
+archana kamath\
+arun bhat\
+satish kamath\
+mangesh kamath\
+\
+select last name, count(*)\
+from names\
+group by last name\
+\
+\
+\
+select deptID , MAX(SALARY)\
+from emp\
+group by dept_id\
+having MAX(SALARY) > 10000;\
+\
+\
+select emp_id, salary ,row_number() over (partition by empId order by salary desc) rnk_emp\
+from emp\
+\
+\
+\
+
+\b Identify duplicate
+\b0 \
+select Emp_ID, Emp_Name, COUNT(Emp_ID) as Num_ occurence\
+from Employee\
+group by Emp_ID,Emp_Name\
+having Count(Emp_ID) >1;\
+\
+
+\b Identify Distinct 
+\b0 \
+select Emp_ID,Emp_Name, COUNT(Emp_ID) as Num_ occurence\
+from Employee\
+group by Emp_ID,Emp_Name\
+order by Emp_ID\
+\
+\
+\
+\pard\pardeftab720\qj\parhyphenfactor20
+
+\f1\b\fs26 \cf2 \expnd0\expndtw0\kerning0
+WHERE
+\b0  clause for static non-aggregated columns\
+
+\b HAVING
+\b0  for aggregated columns.\
+\
+\pard\pardeftab720\qj\parhyphenfactor20
+
+\b \cf0 \expnd0\expndtw0\kerning0
+Self Join
+\b0  is often very useful to convert a hierarchical structure into a flat structure\
+\
+
+\b Transpose using case or decode statement\
+Conditional processing IF-Then-else  using case and decode\
+
+\b0 \
+\
+\pard\pardeftab720\qj\parhyphenfactor20
+
+\f0\fs24 \cf0 \kerning1\expnd0\expndtw0 \
+}
